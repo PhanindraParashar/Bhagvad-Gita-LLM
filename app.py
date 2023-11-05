@@ -38,7 +38,7 @@ st.write('Sample AI Genberated Video - Chapter 1 Verse 3')
 st.video('ch1_v1.mp4')
 
 st.write('Sample AI Genberated Audio - Chapter 1 Verse 1')
-st.audio('ch1_v1.mp3')
+st.audio('ch1_v1_audio.mp3')
 
 st.subheader('English')
 st.write(english)
